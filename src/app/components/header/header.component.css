@@ -1,0 +1,15 @@
+.fs-16 {
+    font-size: 16;
+    font-weight: bold;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: rgb(26, 99, 59);
+    border-radius: 10px;
+}
